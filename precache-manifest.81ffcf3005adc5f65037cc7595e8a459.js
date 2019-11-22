@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6bfc458ae17fd05d11277a77718a1816",
+    "revision": "202aaf933e605a6a99890751d7d4bc86",
     "url": "/wm2ch/index.html"
   },
   {
-    "revision": "b688aedf6d59f6e672f4",
+    "revision": "9aaf1d5eb28f38d5122d",
     "url": "/wm2ch/static/css/main.b100e6da.chunk.css"
   },
   {
@@ -12,12 +12,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wm2ch/static/js/2.64cd41be.chunk.js"
   },
   {
-    "revision": "b688aedf6d59f6e672f4",
-    "url": "/wm2ch/static/js/main.353966cb.chunk.js"
+    "revision": "9aaf1d5eb28f38d5122d",
+    "url": "/wm2ch/static/js/main.819d4b8b.chunk.js"
   },
   {
     "revision": "b992c5af8215d99dd6f9",
     "url": "/wm2ch/static/js/runtime-main.ef799075.js"
+  },
+  {
+    "revision": "a3c492cafe840f691598fd675744c9ad",
+    "url": "/wm2ch/static/media/15598716740580.a3c492ca.jpg"
   },
   {
     "revision": "da5cff7e14cf8a531dcbc51ecbe3137e",
@@ -28,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/wm2ch/static/media/2ch.162bf0ee.jpg"
   },
   {
-    "revision": "7b667a55e224d9b6705f2c0a7ad63354",
-    "url": "/wm2ch/static/media/info.7b667a55.jpg"
+    "revision": "77caac826a3cab2ac1db3178120adb95",
+    "url": "/wm2ch/static/media/logo.77caac82.jpg"
   },
   {
     "revision": "107e59cca334a54d008daea6ac7f4abe",
