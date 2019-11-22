@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/wm2ch/static/css/main.b100e6da.chunk.css",
+    "main.css": "/wm2ch/static/css/main.53ba0414.chunk.css",
     "main.js": "/wm2ch/static/js/main.154f2dfd.chunk.js",
     "main.js.map": "/wm2ch/static/js/main.154f2dfd.chunk.js.map",
     "runtime-main.js": "/wm2ch/static/js/runtime-main.ef799075.js",
@@ -8,9 +8,9 @@
     "static/js/2.64cd41be.chunk.js": "/wm2ch/static/js/2.64cd41be.chunk.js",
     "static/js/2.64cd41be.chunk.js.map": "/wm2ch/static/js/2.64cd41be.chunk.js.map",
     "index.html": "/wm2ch/index.html",
-    "precache-manifest.b44847adb3e434280273f9ff3457f684.js": "/wm2ch/precache-manifest.b44847adb3e434280273f9ff3457f684.js",
+    "precache-manifest.ab8b32fe960f9ed14ea16b54653ae473.js": "/wm2ch/precache-manifest.ab8b32fe960f9ed14ea16b54653ae473.js",
     "service-worker.js": "/wm2ch/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/wm2ch/static/css/main.b100e6da.chunk.css.map",
+    "static/css/main.53ba0414.chunk.css.map": "/wm2ch/static/css/main.53ba0414.chunk.css.map",
     "static/media/15598716740580.jpg": "/wm2ch/static/media/15598716740580.a3c492ca.jpg",
     "static/media/15744156714930.png": "/wm2ch/static/media/15744156714930.da5cff7e.png",
     "static/media/2ch.jpg": "/wm2ch/static/media/2ch.162bf0ee.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.ef799075.js",
     "static/js/2.64cd41be.chunk.js",
-    "static/css/main.b100e6da.chunk.css",
+    "static/css/main.53ba0414.chunk.css",
     "static/js/main.154f2dfd.chunk.js"
   ]
 }
